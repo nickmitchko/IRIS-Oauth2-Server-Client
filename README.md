@@ -8,7 +8,7 @@ Sample of an Oauth2/OpenId Server and Client with IRIS for Health instead of iri
 mkdir ~/oauth-demo
 git clone https://github.com/nickmitchko/IRIS-Oauth2-Server-Client.git ~/oauth-demo
 ```
-2. Copy your iris.key to the folder you clone this repository to the directory you clone this demo
+2. Copy your iris.key to the directory you clone this demo
 3. Change the iris for health image (as required) in the docker-compose.yml file (if required).
 
 ## Run
